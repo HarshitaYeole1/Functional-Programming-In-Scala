@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170311175011"/>
+		date="20170311190714"/>
 	<dependencies>
 		<module organisation="org.scalatest" name="scalatest_2.11">
 			<revision name="3.0.1" status="release" pubdate="20161110092601" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="5287" time="0" location="/home/harshita/.ivy2/cache/org.scalatest/scalatest_2.11/ivy-3.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.1/scalatest_2.11-3.0.1.pom"/>
 				<caller organisation="default" name="functional-programming-in-scala_2.11" conf="test, compile, runtime" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalatest_2.11" type="bundle" ext="jar" status="successful" details="" size="10423607" time="40759" location="/home/harshita/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.1.jar">
+					<artifact name="scalatest_2.11" type="bundle" ext="jar" status="no" details="" size="10423607" time="0" location="/home/harshita/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.1/scalatest_2.11-3.0.1.jar"/>
 					</artifact>
 				</artifacts>
@@ -52,7 +52,7 @@
 				<caller organisation="default" name="functional-programming-in-scala_2.11" conf="test, compile, runtime" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="1.0"/>
 				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="3.0.1"/>
 				<artifacts>
-					<artifact name="scalactic_2.11" type="bundle" ext="jar" status="successful" details="" size="740209" time="6150" location="/home/harshita/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.1.jar">
+					<artifact name="scalactic_2.11" type="bundle" ext="jar" status="no" details="" size="740209" time="0" location="/home/harshita/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.1/scalactic_2.11-3.0.1.jar"/>
 					</artifact>
 				</artifacts>

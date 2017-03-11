@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170311175011"/>
+		date="20170311190714"/>
 	<dependencies>
 		<module organisation="org.scalactic" name="scalactic_2.11">
 			<revision name="3.0.1" status="release" pubdate="20161110092324" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="2967" time="0" location="/home/harshita/.ivy2/cache/org.scalactic/scalactic_2.11/ivy-3.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.1/scalactic_2.11-3.0.1.pom"/>
 				<caller organisation="default" name="functional-programming-in-scala_2.11" conf="compile-internal, compile, provided, optional" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalactic_2.11" type="bundle" ext="jar" status="successful" details="" size="740209" time="6150" location="/home/harshita/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.1.jar">
+					<artifact name="scalactic_2.11" type="bundle" ext="jar" status="no" details="" size="740209" time="0" location="/home/harshita/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.1/scalactic_2.11-3.0.1.jar"/>
 					</artifact>
 				</artifacts>

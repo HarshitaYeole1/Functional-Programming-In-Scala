@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mProblemsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mFibonacci[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the nth fibonacci number[0m[0m
+[0m[[0minfo[0m] [0m[32misSorted[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true if array is sorted according to given comparison function[0m[0m
+[0m[[0minfo[0m] [0m[32mcompose[0m[0m
+[0m[[0minfo[0m] [0m[32m- should compose two functions[0m[0m
